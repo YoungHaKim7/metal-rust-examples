@@ -1,0 +1,20 @@
+# metal-rust-examples — 100 runnable Rust examples for the metal-rust crate.
+#
+# The root package builds the example catalog (src/main.rs). Every example
+# under examples/ is an individual workspace member with its own Cargo.toml,
+# so each one compiles and runs independently:
+#   cargo run -p ex001_hello_metal
+[package]
+name = "metal-rust-examples"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.100.0"
+publish = false
+description = "100 runnable Rust examples for the metal-rust crate (Apple Metal)."
+
+[workspace]
+members = ["examples/*"]
+
+[workspace.dependencies]
+metal-rust = { git = "https://github.com/YoungHaKim7/Metal-Rust" }
+
