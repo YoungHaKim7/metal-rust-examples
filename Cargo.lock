@@ -39,6 +39,153 @@ dependencies = [
 ]
 
 [[package]]
+name = "ex078_layer_drawable"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex079_buffer_debug_markers"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex080_texture_barriers"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex081_process_information"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex082_foundation_values"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex083_notification_center"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex084_packed_float_math"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex085_string_extensions"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex086_repr_c_layout"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex087_error_handling"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex088_bench_loop"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex089_feature_matrix"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex090_encoder_lifetimes"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex091_mandelbrot_fractal"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex092_matrix_multiplication"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex093_game_of_life"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex094_histogram_256"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex095_dot_product_reduction"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex096_sobel_edge_filter"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex097_render_to_ppm"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex098_metalfx_spatial"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
 name = "ex099_metalfx_temporal"
 version = "0.1.0"
 dependencies = [
