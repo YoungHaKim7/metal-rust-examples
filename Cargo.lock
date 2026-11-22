@@ -39,6 +39,90 @@ dependencies = [
 ]
 
 [[package]]
+name = "ex066_shared_events"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex067_submission_ordering"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex068_status_transitions"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex069_error_taxonomy"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex070_scheduled_callbacks"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex071_timestamp_counter_heap"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex072_counter_heap_limits"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex073_counter_sets"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex074_gpu_timing_measurement"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex075_capture_session"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex076_capture_scopes"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
+name = "ex077_metal_cpp_version"
+version = "0.1.0"
+dependencies = [
+ "metal-rust",
+]
+
+[[package]]
 name = "ex078_layer_drawable"
 version = "0.1.0"
 dependencies = [
